@@ -1,0 +1,14 @@
+h1. Twitter Statpack
+
+Twitter Statpack is an enhancement for Twitter.com which helps explain how someone is related to you.
+It compares the people you follow to the followers/following of a another profile, and shows 
+you where they intersect.
+
+h2. Requirements
+
+"Firefox":http://www.mozilla.com/en-US/firefox/firefox.html
+"Mozilla Labs Jetpack":http://jetpack.mozillalabs.com
+
+h2. Screenshots
+
+"Visit the project homepage":http://srobbin.com/blog/jetpack/twitter-statpack/
